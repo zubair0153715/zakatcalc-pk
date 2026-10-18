@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZakatCalc PK</string>
+    <string name="title_rates">سونے اور چاندی کے نرخ (روپے)</string>
+    <string name="gold_per_gram">سونا / گرام</string>
+    <string name="silver_per_gram">چاندی / گرام</string>
+    <string name="nisab_gold">نصاب (سونا، 87.48 گرام)</string>
+    <string name="nisab_silver">نصاب (چاندی، 612.36 گرام)</string>
+    <string name="rates_updated">نرخ اپ ڈیٹ: %1$s</string>
+    <string name="rates_fallback">آف لائن نرخ (کبھی بھی تبدیل کریں)</string>
+    <string name="btn_refresh">نرخ تازہ کریں</string>
+    <string name="btn_edit_rates">نرخ تبدیل کریں</string>
+    <string name="title_assets">آپ کے اثاثے (روپے)</string>
+    <string name="hint_cash">نقد رقم + بینک</string>
+    <string name="hint_gold_grams">سونے کا وزن (گرام)</string>
+    <string name="hint_silver_grams">چاندی کا وزن (گرام)</string>
+    <string name="hint_business">کاروباری مال + واجب الوصول رقم</string>
+    <string name="hint_liabilities">قرض / واجب الادا (منہا ہوگا)</string>
+    <string name="title_agri">زراعت (عشر)</string>
+    <string name="hint_harvest">فصل کی قیمت (روپے)</string>
+    <string name="irrigation_natural">قدرتی آبپاشی (10%)</string>
+    <string name="irrigation_artificial">مصنوعی آبپاشی (5%)</string>
+    <string name="btn_calculate">زکوٰۃ حساب کریں</string>
+    <string name="title_result">نتیجہ</string>
+    <string name="result_wealth">قابلِ زکوٰۃ مالیت: %1$s روپے</string>
+    <string name="result_nisab">نصاب کی حد: %1$s روپے</string>
+    <string name="result_zakat">واجب زکوٰۃ (2.5%%): %1$s روپے</string>
+    <string name="result_ushr">واجب عشر: %1$s روپے</string>
+    <string name="result_below">نصاب سے کم — مال پر زکوٰۃ واجب نہیں۔ فصل پر عشر پھر بھی واجب ہے۔</string>
+    <string name="result_note">نصاب سونے/چاندی میں سے کم والا دکھایا گیا ہے (احتیاطاً)۔ زکوٰۃ = ایک قمری سال تک رکھی ہوئی قابلِ زکوٰۃ مالیت کا 2.5%%۔</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_ur">اردو</string>
+    <string name="dialog_rates_title">نرخ خود درج کریں (روپے)</string>
+    <string name="dialog_gold">سونا فی گرام</string>
+    <string name="dialog_silver">چاندی فی گرام</string>
+    <string name="dialog_save">محفوظ کریں</string>
+    <string name="dialog_cancel">منسوخ</string>
+    <string name="toast_rates_ok">نرخ اپ ڈیٹ ہو گئے</string>
+    <string name="toast_rates_fail">انٹرنیٹ نہیں ملا — محفوظ شدہ نرخ استعمال ہو رہے ہیں</string>
+    <string name="err_number">درست عدد درج کریں</string>
+</resources>

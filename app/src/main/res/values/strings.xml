@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZakatCalc PK</string>
+    <string name="title_rates">Gold &amp; Silver Rates (PKR)</string>
+    <string name="gold_per_gram">Gold / gram</string>
+    <string name="silver_per_gram">Silver / gram</string>
+    <string name="nisab_gold">Nisab (gold, 87.48 g)</string>
+    <string name="nisab_silver">Nisab (silver, 612.36 g)</string>
+    <string name="rates_updated">Rates updated: %1$s</string>
+    <string name="rates_fallback">Offline rates (edit anytime)</string>
+    <string name="btn_refresh">Refresh rates</string>
+    <string name="btn_edit_rates">Edit rates</string>
+    <string name="title_assets">Your Assets (PKR)</string>
+    <string name="hint_cash">Cash in hand + bank</string>
+    <string name="hint_gold_grams">Gold weight (grams)</string>
+    <string name="hint_silver_grams">Silver weight (grams)</string>
+    <string name="hint_business">Business stock + receivables</string>
+    <string name="hint_liabilities">Debts / payables (deducted)</string>
+    <string name="title_agri">Agriculture (Ushr)</string>
+    <string name="hint_harvest">Harvest value (PKR)</string>
+    <string name="irrigation_natural">Natural irrigation (10%)</string>
+    <string name="irrigation_artificial">Artificial irrigation (5%)</string>
+    <string name="btn_calculate">Calculate Zakat</string>
+    <string name="title_result">Result</string>
+    <string name="result_wealth">Zakatable wealth: Rs %1$s</string>
+    <string name="result_nisab">Nisab threshold: Rs %1$s</string>
+    <string name="result_zakat">Zakat due (2.5%%): Rs %1$s</string>
+    <string name="result_ushr">Ushr due: Rs %1$s</string>
+    <string name="result_below">Below nisab — no zakat due on wealth. Ushr still applies on harvest.</string>
+    <string name="result_note">Nisab shown is the lower of gold/silver nisab (precautionary). Zakat = 2.5%% of zakatable wealth held one lunar year.</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_ur">اردو</string>
+    <string name="dialog_rates_title">Set rates manually (PKR)</string>
+    <string name="dialog_gold">Gold per gram</string>
+    <string name="dialog_silver">Silver per gram</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="toast_rates_ok">Rates updated</string>
+    <string name="toast_rates_fail">Could not reach internet — using saved rates</string>
+    <string name="err_number">Enter a valid number</string>
+</resources>

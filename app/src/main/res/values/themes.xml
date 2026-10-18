@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ZakatCalcPK" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/green_700</item>
+        <item name="android:colorPrimaryDark">@color/green_700</item>
+        <item name="android:colorAccent">@color/green_700</item>
+        <item name="android:windowBackground">#F5F5F5</item>
+    </style>
+</resources>
